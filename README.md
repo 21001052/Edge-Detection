@@ -33,8 +33,8 @@ Display all the images with their respective edge detected images.
 ## Program:
 
 ``` Python
- Developed by:Prashethaa R
- Register No :212220230036
+ Developed by:THMARAI SELVAN 
+ Register No :212221230115
  
 # Import the packages
 import cv2
